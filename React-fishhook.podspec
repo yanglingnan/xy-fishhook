@@ -19,7 +19,7 @@ end
 
 Pod::Spec.new do |s|
   s.name                   = "React-fishhook"
-  s.version                = "6.0.0"
+  s.version                = "0.60.0"
   s.summary                = "A very simple library that enables dynamically rebinding symbols in Mach-O binaries running on iOS in the simulator and on device."
   s.homepage               = "http://facebook.github.io/react-native/"
   s.license                = package["license"]
